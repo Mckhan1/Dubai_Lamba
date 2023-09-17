@@ -20,7 +20,7 @@ export default {
     <div @click="playVideo" :class="{ videoTransformBefore: this.play }" class="videoCont w-[100%] flex relative items-center h-[100vh]">
 
         <video id="firstScreenVideo" class="absolute z-[-3]" loop muted autoplay
-            src="../assets/INSANE FLAMES! Lamborghini Aventador LP720-4 Ft. Liberty Walk_Armytrix_Airrex_Forgiato.mp4"></video>
+            src="../assets/video.mp4"></video>
 
 
         <div class="videoText">
